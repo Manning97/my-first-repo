@@ -26,3 +26,8 @@ ___
 
 <!-- Escape a character simply input \-->
 *This text\* has been escaped
+
+<!--Blockquote -->
+> This is a quote
+
+<!-- Links -->
