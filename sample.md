@@ -7,7 +7,7 @@
 ###### Heading 6
 
 <!-- Italics -->
-*This text* is italic
+
 
 _This text_ is italic
 
