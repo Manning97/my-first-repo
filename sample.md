@@ -30,4 +30,19 @@ ___
 <!--Blockquote -->
 > This is a quote
 
-<!-- Links -->
+<!-- Links & customising hover title -->
+[SAPHI Engineering](https://www.saphi.engineering "SAPHI")
+
+<!-- Unordered Lists -->
+* Item 1
+* Item 2
+* Item 3
+* Item 4
+    * Nested Item 1
+    * Nested Item 2
+
+<!-- Ordered Lists -->
+1. Item 1
+1. Item 2
+1. Item 3
+1. Item 4 
