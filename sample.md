@@ -46,3 +46,20 @@ ___
 1. Item 2
 1. Item 3
 1. Item 4 
+
+<!-- Inline Code Block -->
+<p> This is a paragraph </p>
+
+<!-- Images -->
+![Markdownlogo](https://i1.wp.com/saphi.engineering/wp-content/uploads/2019/04/SAPHI-Logo-Landscape-02.png?fit=5334%2C1963&ssl=1)
+
+<!-- Tables -->
+| Name | Email |
+| ------- | ------
+|John Doe | Johndoe@gmail.com
+| Jane Doe | Janedoe@gmail.com |
+
+<!-- Task Lists -->
+* [x] Tast 1
+* [x] Tasl 2
+* [] Task 3
